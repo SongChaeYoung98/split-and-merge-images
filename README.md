@@ -11,7 +11,7 @@
  split-and-merge-images
 ├── LICENSE
 ├── README.md
-└── split-and-merge-images.ipynb
+└── split-and-merge-images.ipynb : Python code that divides and merges one image into multiple image files.
 ```
  
 # Requirement
@@ -22,7 +22,7 @@
 - Image
  
 # Language
-- python 3.8.16
+- Python 3.8.16
 
 # Development Environment
 - Jupyter Notebook
