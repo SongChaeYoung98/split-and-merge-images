@@ -25,7 +25,7 @@
 - Python 3.8.16
 
 # Development Environment
-- Jupyter Notebook
+- Jupyter Notebook(Anaconda 3)
 - CPU : 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
 - GPU : NVIDIA GeForce RTX 3050
 - OS : Window 11 Pro x64
