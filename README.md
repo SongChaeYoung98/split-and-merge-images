@@ -2,17 +2,17 @@
  Split an image into pieces, and you can merge these pieces back into one image.
  
 # Demonstration
-![original](https://user-images.githubusercontent.com/93585651/225534602-102ab02f-6c8b-4abf-99db-f004a01e1c9c.jpg)
+![화면 캡처 2023-03-16 154447](https://user-images.githubusercontent.com/93585651/225536419-bccfe84e-fd8b-463b-a462-e9b30ca05b3c.png)
 ![image_20230313_17 00 57](https://user-images.githubusercontent.com/93585651/225534077-5f67c6df-0f7a-4f89-aedc-fbd73349050e.png)
 ![화면 캡처 2023-03-16 153249](https://user-images.githubusercontent.com/93585651/225534128-ed4d6473-7989-4472-bddd-3b57922cfa38.png)
  
 # Project Structure
- '''
+```
  split-and-merge-images
 ├── LICENSE
 ├── README.md
 └── split-and-merge-images.ipynb
- '''
+```
  
 # Requirement
 - pillow
